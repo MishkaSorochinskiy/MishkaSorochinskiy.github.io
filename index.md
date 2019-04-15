@@ -1,4 +1,4 @@
-# Here We Are / Happy to see you here 
+# Here We Are:stuck_out_tongue_winking_eye:Happy to see you here 
 
 *Everyone calls me Mishka. I am currently student at Ivan Franko National University. In short, I am trying to become a good programmer
 Here I post all my projects with c++, python,c# and a little bit of web. I hope my projects will help you to teach some code, gain git 
@@ -11,9 +11,8 @@ knowledges and just chill*
 ### Projects:
 * TelegramBot with Python (just a funny one)
 [BOT](https://github.com/MishkaSorochinskiy/TelegramBot)
-* Send Email with Python
-[Email](https://github.com/MishkaSorochinskiy/send_email_python)
 
+* Send [Email](https://github.com/MishkaSorochinskiy/send_email_python) with Python
 ![GitHub Logo](/animal.jpg)
 
 * Team project with
@@ -22,4 +21,4 @@ knowledges and just chill*
 ![GitHub Logo](/conversation.jpg)
 
 
-### Don't forget to follow this story
+### **Don't forget to follow this story** :wink:
