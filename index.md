@@ -13,6 +13,7 @@ knowledges and just chill*
 [BOT](https://github.com/MishkaSorochinskiy/TelegramBot)
 
 * Send [Email](https://github.com/MishkaSorochinskiy/send_email_python) with Python
+
 ![GitHub Logo](/animal.jpg)
 
 * Team project with
